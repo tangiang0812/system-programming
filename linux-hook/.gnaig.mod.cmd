@@ -1,0 +1,1 @@
+savedcmd_/home/gnaig/Documents/VCS/SysProg/LinuxHook/gnaig.mod := printf '%s\n'   rootkit.o | awk '!x[$$0]++ { print("/home/gnaig/Documents/VCS/SysProg/LinuxHook/"$$0) }' > /home/gnaig/Documents/VCS/SysProg/LinuxHook/gnaig.mod

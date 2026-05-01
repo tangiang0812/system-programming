@@ -1,0 +1,1 @@
+savedcmd_/home/gnaig/Documents/VCS/SysProg/SysProg#8Linux/kisni.mod := printf '%s\n'   spy.o | awk '!x[$$0]++ { print("/home/gnaig/Documents/VCS/SysProg/SysProg$(pound)8Linux/"$$0) }' > /home/gnaig/Documents/VCS/SysProg/SysProg$(pound)8Linux/kisni.mod
